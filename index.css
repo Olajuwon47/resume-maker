@@ -6,18 +6,18 @@
 html,
 body {
   height: 100%;
-  background-color: #fff;
+  background-color: mediumseagreen;
 }
 
 body {
-  background-color: #fff;
+  background-color: rgb(12, 95, 63);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .container {
   display: flex;
   justify-content: space-between;
   /* Distribute space between the two sides */
-  background-color: #9eddff;
+  background-color: rgb(22, 130, 130);
 }
 
 .side {
@@ -49,7 +49,7 @@ h1 {
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 20px;
-  color: #007bff;
+  color: rgb(65, 93, 9);
 }
 
 input {
@@ -61,7 +61,7 @@ input {
   font-size: 16px;
 }
 input:hover {
-  background-color: #badcef;
+  background-color: rgb(132, 210, 184);
 }
 
 textarea {
@@ -75,7 +75,7 @@ textarea {
 
 textarea:hover {
   border: 3px solid #ccc;
-  background-color: #badcef;
+  background-color:rgb(132, 210, 184) ;
 }
 
 .download {
@@ -119,7 +119,7 @@ margin-bottom:10px;
 #download-button {
   width: 80%;
   padding: 12px;
-  background-color: #007bff;
+  background-color: mediumspringgreen;
   color: #ffffff;
   border: none;
   cursor: pointer;
